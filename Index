@@ -1,0 +1,57 @@
+<html>
+      <head>
+      	    <title>Sitio Web nº1</title>
+      	    <link rel="shortcut icon" type="image/x-icon" href="Archivos extra/Dark Book.ico">
+      </head>	    
+
+  </body>
+  <h1>Título principal</h1>
+  <p>
+  	Texto de prueba (<b>párrafo</b>)</p>
+  	<p>
+  		<br/>
+<cite>Dan Fair</cite>
+  		<blockquote><strong>Parte importante</strong> del texto</blockquote></p>
+  		<a href="http://wrixy.com/">Click aquí</a>
+  		<a target="_blank" href="Archivos extra/La Llamada de Cthulhu - H.P Lovecraft.pdf">Libro</a>
+  
+  <hr/>
+  <h2>Subtitulo</h2>
+  <p>Lista que vas a seguir</p>
+  <ul>
+  	<li><a href="#">Item #1</a></li>
+  	<img src="Archivos Extra/space-4670032_960_720.jpg" width="400" height="200" alt="cosmos" title="Cosmos"/>
+
+</ul>
+<ol>
+	<li>Item Nº1</li>
+	<img src="https://66.media.tumblr.com/45a62b300a7dd28e08a01c7fa99aaee7/tumblr_n27lfqP7l51rhlv47o3_500.gifv"/>
+</ol>
+<table>
+	<tr>
+		<td>Elemento 1</td>
+		<td>Elemento 1</td>
+	</tr>
+	<tr>
+		<td>Elemento 1</td>
+		<td>Elemento 1</td>
+	</tr>
+	</table>
+	<h3>Forma principal</h3>
+	<form>
+		<label for="Nombre">Ingrese su nombre</label>
+		<input type="text" placeholder="Escribe tu nombre" maxlength="6" id="Nombre">
+		<input type="password">
+		<input type="email" name="" id="">
+		<br/>
+		<input type="checkbox">Hombre
+		<input type="checkbox">Mujer
+		<br/>
+		<input type="submit" value="Enviar">
+		<select>
+			<option value="Ecuador">Ecuador</option>
+				<option value="EE.UU">Estados Unidos</option>
+			</select>
+	</form>
+  </body>
+</html>
